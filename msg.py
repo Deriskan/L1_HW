@@ -1,2 +1,3 @@
 # This program prints Hello message
-print ('Hello, World!')
+h_string = 'Hello, World!'
+print (h_string)
